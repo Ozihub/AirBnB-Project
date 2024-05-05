@@ -14,3 +14,4 @@ Kaggle - Seattle Airbnb DataSet
 Tableau for data visualization - marks card, filters, drag and drop interface, maps, table calculations and dashboard 
 
 
+# Result/Findings
