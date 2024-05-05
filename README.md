@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This data analysis project aims to provide insight into the airbnb businesss to enable prospective investrors optimize profit from buying or rental purposes.
+This data analysis project aims to provide insight into the airbnb business to enable prospective investors optimize profit from buying and rental purposes.
 
 ## Data Source 
 Kaggle - Seattle Airbnb DataSet 
