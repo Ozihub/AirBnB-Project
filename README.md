@@ -20,7 +20,7 @@ Tableau for data visualization - marks card, filters, drag and drop interface, m
   - People tend to rent single bedrooms than multiple bedrooms as airbnbs with more rooms were expensive.
   - The result showed some airbnbs in expensive neighbourhood had a likelihood of better profit.
   - Revenue appeared to be on the increase during the holiday period as shown in the month of december.
-  - 
+ 
 # Recommendations
   - Invest in expensive neighbourhoods eg. Zipcodes 98134, 98119
   - Invest in single and double bedrooms.
